@@ -10,7 +10,7 @@ int digit;
 
 for (digit = 0; digit < 10; digit++)
 {
-printf("%digit", digit);
+printf("%i", digit);
 }
 
 printf("\n");
