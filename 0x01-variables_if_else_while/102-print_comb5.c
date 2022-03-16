@@ -6,10 +6,7 @@
  */
 int main(void)
 {
-int c;
-int i;
-int k;
-int j;
+int c, i, k, j;
 
 for (c = 48; c <= 57; c++)
 {
